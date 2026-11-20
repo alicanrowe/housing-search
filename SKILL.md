@@ -48,7 +48,7 @@ Once the renter OKs a draft, pick the channel by what the listing gives you:
 - **Craigslist:** the reply email is behind a captcha. The renter reveals it and pastes the relay address (`...@hous.craigslist.org`). Send from the renter's own webmail in their browser. Don't assume a desktop mail app is set up.
 - **TurboTenant and similar landlord sites:** fill the "Contact the landlord" form yourself (name, phone, email, message), then hand the renter the captcha box and the Send button. Check for the "Information Sent!" page before you call it done.
 - **Phone number only:** confirm it can take texts first. Many small landlords list a landline, so an SMS shows "Not Delivered". Fall back to the listing's form, or have the renter call.
-- **Pet photo:** make one card image (a few photos, name, weight, breed, one line on temperament) and attach the same card to every inquiry, not a loose stack of photos.
+- **Pet photo:** make one card image (a few photos, name, weight, breed, one line on temperament) and attach the same card to every inquiry, not a loose stack of photos. Attach the image file itself. Never attach a screenshot of a page showing it: the screenshot picks up the app's toolbar and looks sloppy. If the browser can't reach the file, inject the real file into the attach input, or ask the renter to drag it in. Open the attachment preview before sending.
 
 After sending, list for the renter what went where, mark each draft sent, and close any browser tabs you opened.
 
@@ -58,3 +58,4 @@ After sending, list for the renter what went where, mark each draft sent, and cl
 - Captchas belong to the renter. Fill everything else so their part takes one tick and one click.
 - A landlord's listed number is often a landline. Don't spend a round trip on a text that can't land.
 - Line up viewings for one day: ask every landlord for the same date in the first message.
+- Sent email can't be pulled back after webmail's few-second undo window, so check the attachment before you press Send, not after.
