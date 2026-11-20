@@ -11,8 +11,9 @@ Landlords get a lot of copy-paste inquiries and a growing number of AI-written o
 6. **One clear ask.** Usually "Is it still available, and could I come see it this week?"
 7. **Contact last.** Name and number on the last line.
 8. **Pet line.** Weight and breed in one breath ("I have a 9 lb Havanese, super chill") plus a photo if the channel allows it.
-9. **True only.** Humanising changes the tone, never the facts. Don't invent reasons for moving, a job, references, or anything a reference check could contradict. Leave out what's private, but don't make things up.
-10. **Read it aloud.** If it sounds like a cover letter, cut it in half.
+9. **True only.** Humanising changes the tone, never the facts. Don't invent reasons for moving, a job, references, or anything a reference check could contradict. Leave out what's private, but don't make things up. If the renter suggests a white lie ("say my current place is too far"), offer a true line that does the same job instead, such as "I'm in the shop most days and mostly need a quiet place to sleep."
+10. **Same core, small tweaks.** When writing to several places, keep one tested message and change only the greeting, the place name, and one place-specific question (a price that differs between posts, whether a small dog is OK).
+11. **Read it aloud.** If it sounds like a cover letter, cut it in half.
 
 ## Example
 Stiff:
