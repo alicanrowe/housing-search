@@ -17,6 +17,7 @@ Airbnb had nothing that fit: no whole place that takes dogs, near school, from t
 
 ## What's in it
 - `SKILL.md`: the process.
+- `references/messages.md`: the humanising pass for landlord messages.
 - `references/profile-template.md`: the standing facts to keep about the renter (pets, anchors, budget), stored outside the skill.
 - `images/`: the map and the notice that started it (names blacked out).
 - `scripts/airbnb_search.js`, `scripts/listing_text.js`: Playwright helpers that print Airbnb search cards and full listing text.

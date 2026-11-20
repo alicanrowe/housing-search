@@ -41,6 +41,9 @@ Geocode anchors and listings at street level (no house numbers for private peopl
 ## 6. Shortlist
 About five places, best pick first. For each one: price all-in, the daily-route loop time (and drive time to each anchor), dates/lease, pet policy vs. the actual pet, furnished, walkability, and a link. Add one line for the best near-miss that's over budget, and say plainly when a source (e.g. Airbnb) had nothing.
 
+## 7. Reaching out
+Draft each inquiry, then run it through the humanising pass in `references/messages.md`: short, spoken, one ask, no AI tells, and true facts only. Show the renter the drafts. Send nothing without their OK, and never get around a captcha to reveal a contact. If the contact is hidden, ask the renter to reveal it.
+
 ## Lessons
 - Small seasonal towns: Airbnb often has zero full-span, pet-friendly whole units under a mid budget, while Craigslist "winter rentals" and small landlords on TurboTenant have several.
 - Two Craigslist posts for one unit can show different prices; flag both.
