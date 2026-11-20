@@ -26,13 +26,13 @@ Facts that change the filters, and how to use them:
 Airbnb is usually thin for 6+ month stays in small towns, so always search local long-term sources too.
 1. **Airbnb** with the exact dates, `pets=1`, `price_max` a little above budget (to show near-misses). Airbnb's results "in <town>" spill far outside the town, so check each result's real town. Results with shifted dates ("Nov 26 – May 25") don't cover the full stay; label them.
    `node scripts/airbnb_search.js "<search url>" ...` prints each card's link and text.
-2. **Craigslist** apartments by zip and radius: `https://<region>.craigslist.org/search/apa?postal=<zip>&search_distance=15&max_price=<budget>`. Then `node scripts/listing_text.js <urls>` to read each post's full body (pets, lease length, utilities, dates). Look for "winter rental" posts: in seasonal towns many run fall through spring, which is a good fit for a school year.
+2. **Craigslist** apartments by zip and radius: `https://<region>.craigslist.org/search/apa?postal=<zip>&search_distance=15&max_price=<budget>&pets_dog=1` (use `pets_cat=1` for cats). Run a second search without the pet filter only to find "ask first" places.. Then `node scripts/listing_text.js <urls>` to read each post's full body (pets, lease length, utilities, dates). Look for "winter rental" posts: in seasonal towns many run fall through spring, which is a good fit for a school year.
 3. **TurboTenant / Zillow / VRBO** for more listings. Craigslist posts often link to a TurboTenant page with a structured pet policy and lease length.
 4. Furnished Finder blocks automated browsers (Cloudflare). Don't retry it; give the renter the search link instead.
 
 ## 4. Filter and price all-in
 - Budget is **all-in per month**: rent plus any fixed utility fee, plus an estimate for heat and electric when the tenant pays them. In cold climates, winter heat can add $200 to $400 a month.
-- Drop listings that say no pets. Keep "pets not mentioned" listings, but flag them as a question to ask.
+- **Pets must be confirmed.** A place goes on the shortlist only if the listing says the renter's pet type is allowed (a "dogs are OK" tag, a written pet policy, or the landlord saying so). "Pets not mentioned" is not a yes: keep it off the shortlist, or list it separately as "ask first". Building rules can override a unit post, so still ask in the first message.
 - Note furnished or unfurnished, lease length vs. the needed span, start date (and any gap nights before it), and the deposit.
 
 ## 5. Distance
@@ -60,3 +60,4 @@ After sending, list for the renter what went where, mark each draft sent, and cl
 - A landlord's listed number is often a landline. Don't spend a round trip on a text that can't land.
 - Line up viewings for one day: ask every landlord for the same date in the first message.
 - Sent email can't be pulled back after webmail's few-second undo window, so check the attachment before you press Send, not after.
+- A Craigslist post with no pet tag turned out to be a no-dogs building. Confirm pets before the shortlist, not after the inquiry.
