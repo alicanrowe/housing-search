@@ -53,6 +53,16 @@ Once the renter OKs a draft, pick the channel by what the listing gives you:
 
 After sending, list for the renter what went where, mark each draft sent, and close any browser tabs you opened.
 
+## Excuses that don't count
+Each of these is a shortcut that ends in a broken result. If you catch yourself thinking the left column, do the right column.
+
+| The excuse | What to do instead |
+|---|---|
+| "The listing says pets OK" | Confirm pet terms and fees in writing before it goes on the shortlist. |
+| "The nightly price is the price" | Price everything all-in (fees, cleaning, tax, deposit) before ranking. |
+| "It's walkable, it looks close on the map" | Measure the actual walking distance to each place that matters. |
+| "While I'm in here I'll also tidy/refactor this other bit" | Change only what the task needs. Smallest diff that works; no new options, helpers or files nobody asked for. Note other ideas for later instead. |
+
 ## Lessons
 - Small seasonal towns: Airbnb often has zero full-span, pet-friendly whole units under a mid budget, while Craigslist "winter rentals" and small landlords on TurboTenant have several.
 - Two Craigslist posts for one unit can show different prices; flag both.
