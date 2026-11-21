@@ -61,6 +61,7 @@ Each of these is a shortcut that ends in a broken result. If you catch yourself 
 | "The listing says pets OK" | Confirm pet terms and fees in writing before it goes on the shortlist. |
 | "The nightly price is the price" | Price everything all-in (fees, cleaning, tax, deposit) before ranking. |
 | "It's walkable, it looks close on the map" | Measure the actual walking distance to each place that matters. |
+| "The fetched page says it's $X a night" | Web-fetch tools hand back a short summary of the page and can miss fees or show an old price. Read the full listing as text (a Firecrawl scrape, e.g. Composio's `FIRECRAWL_SCRAPE`, public pages only), and quote the price with its URL and the date you read it. |
 | "While I'm in here I'll also tidy/refactor this other bit" | Change only what the task needs. Smallest diff that works; no new options, helpers or files nobody asked for. Note other ideas for later instead. |
 
 ## Lessons
