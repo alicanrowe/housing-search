@@ -1,3 +1,5 @@
+![Housing search: Find a place for a fixed stretch, ranked by the whole daily route, not distance to one place.](.github/banner.png)
+
 # Housing search skill
 
 A Claude skill for finding a place to live for a fixed stretch, such as a school year or a contract. Claude pins the end date from the official source, searches Airbnb and local monthly and winter rentals, filters by pets, all-in budget and walkability, and ranks a shortlist by drive time to the places you care about. You book; Claude never contacts hosts without your go ahead.
